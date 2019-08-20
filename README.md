@@ -1,6 +1,6 @@
 # reportGIT
 ##Cách thức hoạt động của GitHub
-1._Nguyên_tắc_hoạt_động
+*1.Nguyên_tắc_hoạt_động
 GitHub là một dịch vụ lưu trữ sử dụng Git, nhưng bổ sung thêm nhiều tính năng riêng của nó.
 Trong khi Git là một công cụ dòng lệnh, thì GitHub cung cấp một giao diện đồ họa trên nền tảng Web.
 Nó cũng cung cấp công cụ kiểm soát truy cập và một số tính làm việc nhóm, chẳng hạn như wiki và các công cụ quản lý task cơ bản.
